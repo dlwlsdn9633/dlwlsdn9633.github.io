@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  "Hello, Jekyll"
-date:   2019-05-23 21:03:36 +0530
+title:  "블로그를 작성하는 이유"
+date:   2025-10-25 20:19:36 +0530
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+블로그를 작성하는 이유는 다음과 같습니다.
+1. 글을 잘 작성하지 못해 업무에 불편함이 많다는 점
+2. 무언가를 해결한 경험이나 공부한 내용을 글로 적어야 진짜 내 것이 된다는 점을 알았기 때문입니다.
+블로그 작성이 얼마나 진행될지 모르겠지만, 최선을 다해 적어보도록 하겠습니다.
+감사합니다.
